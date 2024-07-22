@@ -43,10 +43,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@DeepEagle" target="_blank">
+  <a href="https://www.youtube.com/@EchoScriptors" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="dsc.gg/EchoScriptors" target="_blank">
+  <a href="https://discord.com/users/1179141945403113475" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://t.me//DeepEagle" target="_blank">
@@ -88,9 +88,11 @@
 </div>
 
 ###
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
