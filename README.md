@@ -101,3 +101,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+###
+<h2 align="center">Diskord Activity</h2>
+<p align="center">
+  <a href="https://discord.com/users/1179141945403113475" target="_blank"><img src="https://lanyard.cnrad.dev/api/1179141945403113475"><a>
+</p>
