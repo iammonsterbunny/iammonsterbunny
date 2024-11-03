@@ -105,5 +105,5 @@
 ###
 <h2 align="center">Diskord Activity</h2>
 <p align="center">
-  <a href="https://discord.com/users/1179141945403113475" target="_blank"><img src="https://lanyard.cnrad.dev/api/1179141945403113475"><a>
+  <a href="https://discord.com/users/1179141945403113475" target="_blank"><img src="https://lanyard.cnrad.dev/api/1176807520216551484"><a>
 </p>
