@@ -81,7 +81,9 @@
 
 <br clear="both">
 
-<h3 align="center">high school programmer and founder of echoscriptors,<br> developing cool discord bots like notenest and nexusai.</h3>
+<h3 align="center">Hello! I'm Monster Bunny, a passionate developer with a keen interest in various programming languages and technologies. My GitHub repositories showcase projects involving JavaScript, React, HTML5, CSS3, and Python. I enjoy exploring new technologies and continuously enhancing my skills. Feel free to explore my work and connect with me on Discord. 
+
+</h3>
 
 ###
 
