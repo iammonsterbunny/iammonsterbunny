@@ -50,7 +50,7 @@
   <a href="https://www.youtube.com/@EchoScriptors" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/users/1179141945403113475" target="_blank">
+  <a href="https://dsc.gg/EchoScriptors" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
   </a>
   <a href="https://t.me//DeepEagle" target="_blank">
