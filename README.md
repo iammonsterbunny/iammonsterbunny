@@ -57,40 +57,33 @@ I'm **Monster Bunny**, a passionate developer who loves turning ideas into polis
 </div>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iammonsterbunny&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=a78bfa" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammonsterbunny&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899" alt="Top languages" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api?username=iammonsterbunny&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=a78bfa"
+alt="GitHub Stats" />
 
-<br/>
+<img height="170"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=iammonsterbunny&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899"
+alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammonsterbunny&theme=tokyonight&hide_border=true&background=0d1117&ring=ec4899&fire=f97316&currStreakLabel=a78bfa" alt="Streak stats" height="170" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammonsterbunny&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&area_color=5b21b6&hide_border=true&radius=16" alt="Activity graph" width="100%" />
+<img height="170"
+src="https://streak-stats.demolab.com?user=iammonsterbunny&theme=tokyonight&hide_border=true&background=0d1117&ring=ec4899&fire=f97316&currStreakLabel=a78bfa"
+alt="GitHub Streak" />
 
 </div>
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammonsterbunny&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
-
+---
 <!-- ═══════════════ SNAKE ═══════════════ -->
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" />
-  </picture>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
 
 <!-- ═══════════════ NOW PLAYING / DISCORD ═══════════════ -->
 ## 🎧 Vibes & Presence
