@@ -1,111 +1,125 @@
-<h2 align="left">Hi 👋! im Monster Bunny</h2>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:5b21b6,100:ec4899&height=220&section=header&text=Monster%20Bunny&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20UI%2FUX&descSize=18&descAlignY=65&animation=fadeIn" alt="Monster Bunny banner" width="100%" />
 
-<br clear="both">
+<a href="https://github.com/iammonsterbunny">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=EC4899&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Monster+Bunny;I+build+things+for+the+web+%F0%9F%8C%90;I+craft+Discord+bots+%F0%9F%A4%96;I+design+interfaces+people+enjoy+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-<img align="right" height="180" src="https://avatars.githubusercontent.com/u/141579057?s=400&u=9db9396bc0635af6c0381decce6d76a9a3f859bf&v=4"  />
+<br/>
 
-###
+<img src="https://komarev.com/ghpvc/?username=iammonsterbunny&label=Profile+views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/iammonsterbunny?style=for-the-badge&logo=github&color=ec4899&labelColor=0d1117" alt="Followers" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-<img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-<img width="12" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" **alt="IntelliJ IDEA" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+<br/><br/>
+
+<a href="https://dsc.gg/EchoScriptors"><img src="https://img.shields.io/badge/Discord-EchoScriptors-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.youtube.com/@Deepeagle"><img src="https://img.shields.io/badge/YouTube-Deepeagle-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://t.me/iammonsterbunny"><img src="https://img.shields.io/badge/Telegram-@iammonsterbunny-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <a href="https://www.youtube.com/@Deepeagle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="youtube logo"  />
-  </a>
-  <a href="https://dsc.gg/EchoScriptors" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="discord logo"  />
-  </a>
-  <a href="https://t.me//iammonsterbunny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="telegram logo"  />
-  </a>
-</div>
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 🐰 About Me
 
-###
+<img align="right" height="170" src="https://avatars.githubusercontent.com/u/141579057?s=400&u=9db9396bc0635af6c0381decce6d76a9a3f859bf&v=4" alt="Monster Bunny avatar" />
 
-<br clear="both">
+I'm **Monster Bunny**, a passionate developer who loves turning ideas into polished, usable products. I work across **full-stack web development**, **Discord bot development** and **UI/UX design**, and I'm always exploring new technologies to sharpen my craft.
+
+- 🔭 Building under the **EchoScriptors** brand
+- 🎨 Obsessed with clean, modern interfaces
+- 🤖 Blending hand-written code with AI-assisted workflows
+- 🌱 Currently levelling up in **TypeScript**, **React** and **Kotlin**
+- 💬 Come say hi on [Discord](https://dsc.gg/EchoScriptors)
+
+<br clear="right"/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammonsterbunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iammonsterbunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=iammonsterbunny&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammonsterbunny&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,html,css&theme=dark" alt="Languages" />
+
+**Frameworks & Runtimes**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,deno,discordjs,wordpress&theme=dark" alt="Frameworks" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,gcp,heroku,git,github,vscode,idea,figma&theme=dark" alt="Tools" />
+
 </div>
 
-###
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iammonsterbunny&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=a78bfa" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammonsterbunny&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ec4899" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammonsterbunny&theme=tokyonight&hide_border=true&background=0d1117&ring=ec4899&fire=f97316&currStreakLabel=a78bfa" alt="Streak stats" height="170" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammonsterbunny&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&area_color=5b21b6&hide_border=true&radius=16" alt="Activity graph" width="100%" />
+
+</div>
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammonsterbunny&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" />
+  </picture>
+</div>
+
+<!-- ═══════════════ NOW PLAYING / DISCORD ═══════════════ -->
+## 🎧 Vibes & Presence
 
 <div align="center">
   <a href="https://open.spotify.com/user/31qte5mb4ee37w5zd6bohpwsi4tm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qte5mb4ee37w5zd6bohpwsi4tm&count=4&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qte5mb4ee37w5zd6bohpwsi4tm&count=4&unique=true" alt="Spotify recently played" />
+  </a>
+  <br/><br/>
+  <a href="https://discord.com/users/1179141945403113475">
+    <img src="https://lanyard.cnrad.dev/api/1179141945403113475?theme=dark&bg=0d1117&borderRadius=16px" alt="Discord presence" />
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<h3 align="center">Hello! I'm Monster Bunny, a passionate developer with a keen interest in various programming languages and technologies. My GitHub repositories showcase projects involving JavaScript, React, HTML5, CSS3, and Python. I enjoy exploring new technologies and continuously enhancing my skills. Feel free to explore my work and connect with me on Discord. 
-
-</h3>
-
-###
-
-<br clear="both">
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iammonsterbunny/count.svg?"  />
+
+Got a project, a bot idea, or just want to chat tech? Reach out!
+
+<a href="https://dsc.gg/EchoScriptors"><img src="https://img.shields.io/badge/Join%20the%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" /></a>
+<a href="https://t.me/iammonsterbunny"><img src="https://img.shields.io/badge/Message%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.youtube.com/@Deepeagle"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+<br/><br/>
+
+<sub>⭐ If you like what you see, drop a star on my repos. It means a lot!</sub>
+
 </div>
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
-###
-<h2 align="center">Discord Activity</h2>
-<p align="center">
-  <a href="https://discord.com/users/1179141945403113475"><img src="https://lanyard.cnrad.dev/api/1179141945403113475" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b21b6,100:ec4899&height=100&section=footer" alt="Footer wave" width="100%" />
